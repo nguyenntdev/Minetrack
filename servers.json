@@ -1,22 +1,12 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "MineVN Network",
+		"ip": "minevn.net",
 		"type": "PC"
 	},
 	{
-		"name": "HiveMC",
-		"ip": "play.hivemc.com",
-		"type": "PC"
-	},
-	{
-		"name": "Mineplex",
-		"ip": "us.mineplex.com",
-		"type": "PC"
-	},
-	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
+		"name": "CursedKiwi SMP",
+		"ip": "smp.minhh2792.me",
 		"type": "PC"
 	}
 ]
